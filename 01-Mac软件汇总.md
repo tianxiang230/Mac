@@ -448,6 +448,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 #### GUI
 
 - [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。[荐]
+- [GitKraken](https://www.gitkraken.com) - 新生代Git客户端，关键UI很漂亮[荐]
 - [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。[荐]
 - [GitHub Desktop](https://desktop.github.com/) - 使用GitHub的GUI应用。
 - [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示GitHub贡献统计。
@@ -464,6 +465,7 @@ Eagle 可以轻松管理大量图片素材，满足图片素材「收藏、整�
 * [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。
 * [phabricator](https://phabricator.com) phabricator支持Git、SVN、HG 基于 PHP + Mysql 的开放源代码软件开发平台。
 * [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务Golang版本。
+* [Gitea](https://gitea.io/zh-cn) - 一个开源社区驱动的轻量级代码托管解决方案，后端采用 Go 编写，采用 MIT 许可证
 * [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。
 * [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。
 
